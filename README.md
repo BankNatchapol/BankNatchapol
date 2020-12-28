@@ -41,6 +41,7 @@ I'm a student pursuing Bachelors's in Computer Engineering 🎓 from King Mongku
 <code><img height="27" src="https://symbols.getvecta.com/stencil_92/77_pytorch-icon.3e1681b72a.svg" alt="pytorch"></code>
 <code><img height="27" src="https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.f7092db2bd.svg" alt="tensorflow"></code>
 <code><img height="27" src="https://flask-training-courses.uk/images/flask-logo.png" alt="flask"></code>
+<code><img height="27" src="https://www.djangoproject.com/m/img/logos/django-logo-positive.svg" alt="django"></code>
 
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
