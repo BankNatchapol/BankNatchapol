@@ -52,3 +52,6 @@ I'm a student pursuing Bachelors's in Computer Engineering 🎓 from King Mongku
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BankNatchapol&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </div>
 ### Badges 
+
+#
+<img align="left" height="200" width="200" alt="" src="https://github.com/BankNatchapol/BankNatchapol/raw/main/images/Ending.jpg" />
