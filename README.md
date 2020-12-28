@@ -19,14 +19,12 @@ I'm a student pursuing Bachelors's in Computer Engineering 🎓 from King Mongku
 - 🛠 &nbsp; I’m currently working on Python, Data Science, <br /> Machine Learning, Tensorflow, Pytorch, Qiskit, <br />AWS, Azure, React, etc.
 - 🚀 &nbsp; I’m currently learning Quantum Computing.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/BankNatchapol) <br /> and Medium blogs [Medium](https://blue-natchapol.medium.com/).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/BankNatchapol/BankNatchapol/issues/2)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/BankNatchapol/BankNatchapol/issues/1)! I am happy to help.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 💻 &nbsp; I love learning new technologies eg. BlockChain, IoT, Quantum.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
