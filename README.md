@@ -16,9 +16,9 @@ I'm a student pursuing Bachelors's in Computer Engineering 🎓 from King Mongku
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
+- 🛠 &nbsp; I’m currently working on Python, Data Science, Machine Learning, Qiskit, <br /> AWS, Azure, React, etc.
+- 🚀 &nbsp; I’m currently learning Quantum Computing.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/BankNatchapol) <br /> and Medium blogs [Medium](https://blue-natchapol.medium.com/).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
