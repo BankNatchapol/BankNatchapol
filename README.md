@@ -46,7 +46,8 @@ I'm a student pursuing Bachelors's in Computer Engineering 🎓 from King Mongku
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
 
-### Github Stats
+### Github Stats:
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BankNatchapol&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BankNatchapol&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
