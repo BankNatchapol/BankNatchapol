@@ -43,7 +43,7 @@ I'm a student pursuing Bachelors's in Computer Engineering 🎓 from King Mongku
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgres"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="cassandra"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark"></code>
-<code><img height="27" src="https://en.wikipedia.org/wiki/Amazon_Web_Services#/media/File:Amazon_Web_Services_Logo.svg" alt="aws"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws"></code>
 <code><img height="27" src="https://i1.wp.com/build5nines.com/wp-content/uploads/2017/09/Azure.png" alt="azure"></code>
 <code><img height="27" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
