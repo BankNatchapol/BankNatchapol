@@ -1,14 +1,14 @@
 <img align="left" height="200" width="200" alt="" src="https://github.com/BankNatchapol/BankNatchapol/raw/main/images/HI.jpg" />
 
-### Hey 👋, I'm [BankNatchapol!](https://github.com/BankNatchapol/)
+### Hey 👋, I'm [Bank Natchapol!](https://github.com/BankNatchapol/)
 
 <a href="https://www.linkedin.com/in/natchapol-patamawisut/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" height=21></a> 
 <a href="https://blue-natchapol.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=21></a> 
 <a href="https://www.facebook.com/natchapol.patamawisut/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=22></a> 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; 
 
-I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a student pursuing Bachelors's in Computer Engineering 🎓 from King Mongkut's University of Technology Thonburi 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Quantum Computing ⚛️ and working on Machine Learning and Deep Learning 🤖.
 
 [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
