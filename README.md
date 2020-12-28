@@ -1,5 +1,6 @@
-<img align="left" height="150" width="150" alt="" src="https://github.com/BankNatchapol/BankNatchapol/raw/main/images/HI.jpg" />
-## Hey 👋, I'm [BankNatchapol!](https://github.com/BankNatchapol/)
+<img align="left" height="200" width="200" alt="" src="https://github.com/BankNatchapol/BankNatchapol/raw/main/images/HI.jpg" />
+
+### Hey 👋, I'm [BankNatchapol!](https://github.com/BankNatchapol/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
