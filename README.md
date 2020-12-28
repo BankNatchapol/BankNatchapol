@@ -30,6 +30,7 @@ I'm a student pursuing Bachelors's in Computer Engineering 🎓 from King Mongku
 
 ### Languages and Tools:
 
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="qiskit"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://symbols.getvecta.com/stencil_92/77_pytorch-icon.3e1681b72a.svg" alt="pytorch"></code>
 <code><img height="27" src="https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.f7092db2bd.svg" alt="tensorflow"></code>
@@ -47,12 +48,6 @@ I'm a student pursuing Bachelors's in Computer Engineering 🎓 from King Mongku
 <code><img height="27" src="https://i1.wp.com/build5nines.com/wp-content/uploads/2017/09/Azure.png" alt="azure"></code>
 <code><img height="27" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
-
-
-
-<!--postgres<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
 
 ### Github Stats:
 <div>
