@@ -1,4 +1,4 @@
-<img align="right" height="250" width="375" alt="" src="https://github.com/BankNatchapol/BankNatchapol/raw/main/images/HI.jpg" />
+<img align="left" height="150" width="150" alt="" src="https://github.com/BankNatchapol/BankNatchapol/raw/main/images/HI.jpg" />
 ## Hey 👋, I'm [BankNatchapol!](https://github.com/BankNatchapol/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
