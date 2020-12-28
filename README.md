@@ -56,14 +56,14 @@ I'm a student pursuing Bachelors's in Computer Engineering 🎓 from King Mongku
 <div>
 
 <img align="center" height="200" width="200" alt="" src="https://images.youracclaim.com/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" />
-<img align="center" height="200" width="200" alt="" src="https://github.com/BankNatchapol/BankNatchapol/raw/main/images/Tensorflow.jpg" />
+<img align="center" height="200" width="200" alt="" src="https://github.com/BankNatchapol/BankNatchapol/raw/main/images/Tensorflow.png" />
 
 </div>
 
 #
 <div align="center">
 
-<img align="center" height="400" width="400" alt="" src="https://github.com/BankNatchapol/BankNatchapol/raw/main/images/Ending.jpg" />
+<img align="center" height="500" width="500" alt="" src="https://github.com/BankNatchapol/BankNatchapol/raw/main/images/Ending.jpg" />
 
 </div>
 
