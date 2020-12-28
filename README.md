@@ -12,7 +12,7 @@ I'm a student pursuing Bachelors's in Computer Engineering 🎓 from King Mongku
 
 [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
-<img align="right" height="250" width="375" alt="" src="https://github.com/BankNatchapol/BankNatchapol/raw/main/images/Bomb.png" />
+<img align="right" height="646" width="894" alt="" src="https://github.com/BankNatchapol/BankNatchapol/raw/main/images/Bomb.png" />
 
 ### Talking about Personal Stuffs:
 
