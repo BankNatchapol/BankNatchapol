@@ -10,7 +10,7 @@
 
 I'm a student pursuing Bachelors's in Computer Engineering 🎓 from King Mongkut's University of Technology Thonburi 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Quantum Computing ⚛️ and working on Machine Learning and Deep Learning 🤖.
 
-[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+[![](https://gitwar.herokuapp.com/badge?username=BankNatchapol&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 <img align="right" height="323" width="400" alt="" src="https://github.com/BankNatchapol/BankNatchapol/raw/main/images/Bomb.png" />
 
