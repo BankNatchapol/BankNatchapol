@@ -46,7 +46,7 @@ I'm a student pursuing Bachelors's in Computer Engineering 🎓 from King Mongku
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws"></code>
 <code><img height="27" src="https://i1.wp.com/build5nines.com/wp-content/uploads/2017/09/Azure.png" alt="azure"></code>
-<code><img height="27" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git"></code>
 <code><img height="27" src="https://desosa.nl/projects/solidity/images/solidity/solidity-logo-vector.jpg" alt="solidity"></code>
 
 ### Github Stats:
