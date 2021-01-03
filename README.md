@@ -40,7 +40,7 @@ I'm a student pursuing Bachelors's in Computer Engineering 🎓 from King Mongku
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="expressjs"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="expressjs"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgres"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="cassandra"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark"></code>
