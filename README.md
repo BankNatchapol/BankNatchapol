@@ -20,7 +20,7 @@ I'm a student pursuing Bachelors's in Computer Engineering 🎓 from King Mongku
 - 🚀 &nbsp; I’m currently learning Quantum Computing.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/BankNatchapol) <br /> and Medium blogs [Medium](https://blue-natchapol.medium.com/).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/BankNatchapol/BankNatchapol/issues/1)! I am happy to help.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+<!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf). -->
 
 ### My Absolute Favorites:
 
