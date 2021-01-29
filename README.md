@@ -70,4 +70,3 @@ I'm a student pursuing Bachelors's in Computer Engineering 🎓 from King Mongku
 
 </div>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="natchapol-patamawisut"><a class="LI-simple-link" href='https://th.linkedin.com/in/natchapol-patamawisut?trk=profile-badge'>Natchapol Patamawisut</a></div>
