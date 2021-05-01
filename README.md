@@ -16,7 +16,7 @@ I'm a student pursuing Bachelors's in Computer Engineering 🎓 from King Mongku
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on Python, Data Science, <br /> Machine Learning, Tensorflow, Pytorch, Qiskit, <br />AWS, Azure, React, etc.
+- 🛠 &nbsp; I’m currently working on implementing QuGAN from research papers.
 - 🚀 &nbsp; I’m currently learning Quantum Computing.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/BankNatchapol) <br /> and Medium blogs [Medium](https://blue-natchapol.medium.com/).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/BankNatchapol/BankNatchapol/issues/1)! I am happy to help.
