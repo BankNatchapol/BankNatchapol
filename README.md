@@ -16,7 +16,7 @@ I'm a student pursuing Bachelors's in Computer Engineering 🎓 from King Mongku
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on implementing QuGAN from research papers.
+- 🛠 &nbsp; I’m currently working on implementing Quantum Gradient from research papers.
 - 🚀 &nbsp; I’m currently learning Quantum Computing.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/BankNatchapol) <br /> and Medium blogs [Medium](https://blue-natchapol.medium.com/).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/BankNatchapol/BankNatchapol/issues/1)! I am happy to help.
@@ -60,6 +60,7 @@ I'm a student pursuing Bachelors's in Computer Engineering 🎓 from King Mongku
 
 <img align="center" height="200" width="200" alt="" src="https://images.youracclaim.com/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" />
 <img align="center" height="200" width="200" alt="" src="https://github.com/BankNatchapol/BankNatchapol/raw/main/images/Tensorflow.png" />
+  <img align="center" height="200" width="200" alt="" src="https://github.com/BankNatchapol/BankNatchapol/raw/main/images/qc-dev-cert-card.png" />
 
 </div>
 
