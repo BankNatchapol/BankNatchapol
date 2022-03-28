@@ -32,8 +32,8 @@ I'm a student pursuing Bachelors's in Computer Engineering 🎓 from King Mongku
 
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="qiskit"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://symbols.getvecta.com/stencil_92/77_pytorch-icon.3e1681b72a.svg" alt="pytorch"></code>
-<code><img height="27" src="https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.f7092db2bd.svg" alt="tensorflow"></code>
+<code><img height="27" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_169823.png" alt="pytorch"></code>
+<code><img height="27" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_170598.png" alt="tensorflow"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn"></code>
 <code><img height="27" src="https://flask-training-courses.uk/images/flask-logo.png" alt="flask"></code>
 <code><img height="27" src="https://www.djangoproject.com/m/img/logos/django-logo-positive.svg" alt="django"></code>
