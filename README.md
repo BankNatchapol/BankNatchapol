@@ -1,4 +1,4 @@
-<img align="left" height="200" width="200" alt="" src="https://github.com/BankNatchapol/BankNatchapol/raw/main/images/HI.jpg" />
+<img align="left" height="200" width="200" alt="" src="https://github.com/BankNatchapol/BankNatchapol/raw/main/images/HI.png" />
 
 ### Hey 👋, I'm [Bank Natchapol!](https://github.com/BankNatchapol/)
 
