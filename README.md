@@ -67,7 +67,7 @@ I'm a student pursuing Bachelors's in Computer Engineering 🎓 from King Mongku
 #
 <div align="center">
 
-<img align="center" height="400" width="400" alt="" src="https://github.com/BankNatchapol/BankNatchapol/raw/main/images/Ending.jpg" />
+<img align="center" height="400" width="400" alt="" src="https://github.com/BankNatchapol/BankNatchapol/raw/main/images/Ending.png" />
 
 </div>
 
